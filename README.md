@@ -21,11 +21,11 @@ https://github.com/PK-124960/A6_NLP_assignment.git
   This project implements a Retrieval-Augmented Generation (RAG) chatbot using LangChain, FAISS, and OpenAI GPT-3.5. The chatbot is designed to answer questions based on personal documents such as transcripts, certificates, and a CV.
 
 ## 🎯 Features
-✅ **Document-Based Q&A** - The chatbot retrieves relevant information from uploaded documents.
-✅ **FAISS Vector Search** - Uses FAISS for efficient similarity-based document retrieval.
-✅ **GPT-3.5 Turbo Integration** - Generates responses based on retrieved documents.
-✅ **Streamlit UI** - Can be extended with a web-based interface.
-✅ **Built with LangChain** - Modular and scalable NLP pipeline.
+- **Document-Based Q&A** - The chatbot retrieves relevant information from uploaded documents.
+- **FAISS Vector Search** - Uses FAISS for efficient similarity-based document retrieval.
+- **GPT-3.5 Turbo Integration** - Generates responses based on retrieved documents.
+- **Streamlit UI** - Can be extended with a web-based interface.
+- **Built with LangChain** - Modular and scalable NLP pipeline.
 
 ---
 
